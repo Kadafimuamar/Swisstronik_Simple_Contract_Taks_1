@@ -12,12 +12,14 @@ PRIVATE_KEY=YOUR_PIVATE_KEY
 
 !!! Keep your Private key secret and becarefull for ripper or scammer !!!
 
-Try running some of the following tasks:
+Runing Code
 
 ```shell
 npx hardhat compile
 ```
 - Success deploying
+
+
 ![Jepretan Layar 2024-07-25 pukul 18 58 23](https://github.com/user-attachments/assets/2d2d51ab-4a40-4c65-acfd-f79f6055d258)
 
 
