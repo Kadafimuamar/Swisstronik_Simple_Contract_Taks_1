@@ -1,6 +1,9 @@
-# Contract Deploy On Swisstronic Testnet with Hardhat
+# Contract Deploy On Swisstronik Testnet with Hardhat
 
 This project demonstrates a basic Hardhat use case on Swisstronik Testnet. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+
+Faucet
+https://faucet.testnet.swisstronik.com/
 
 Create file .env
 ```Copy This
