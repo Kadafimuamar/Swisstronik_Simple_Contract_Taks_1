@@ -5,6 +5,12 @@ This project demonstrates a basic Hardhat use case on Swisstronik Testnet. It co
 - Faucet
 https://faucet.testnet.swisstronik.com/
 
+- Clone
+```Clone this repository
+git clone https://github.com/Kadafimuamar/Swisstronik_Simple_Contract_Taks_1.git
+cd Swisstronik_Simple_Contract_Taks_1
+```
+
 - Create file .env
 ```Copy This
 PRIVATE_KEY=YOUR_PIVATE_KEY
